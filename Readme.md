@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [RibbonDragDropHelper.cs](./CS/WindowsApplication3/RibbonDragDropHelper.cs) (VB: [RibbonDragDropHelper.vb](./VB/WindowsApplication3/RibbonDragDropHelper.vb))
+<!-- default file list end -->
 # How to drag and drop items within Ribbon Quick Access Toolbar 
 
 
